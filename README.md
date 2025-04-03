@@ -60,5 +60,3 @@ Project contains 3 DAGs
 2. query data to see accidents count per year
 3. print query results
       
-## Changelog
-Most of the commits are labeled by the module number that they were created for.
